@@ -1,2 +1,2 @@
 # webForm
-An angular6 web application, creating a form with user validation.
+Creating a form with user validation, using the Angular6 CLI
